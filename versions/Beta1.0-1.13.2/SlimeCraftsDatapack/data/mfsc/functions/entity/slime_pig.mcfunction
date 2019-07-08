@@ -1,0 +1,9 @@
+replaceitem entity @e[type=minecraft:pig,distance=..3] armor.head minecraft:player_head{display:{Name:"{\"text\":\"Slime\"}"},SkullOwner:{Id:"df7e8d67-0aa9-4d2e-af52-f5454db7edc8",Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2Y1ODM1NTk4OWQxZWFhZDk4ZjgzOWZkZjc5MWJlOGZhOGQ4OTJiZGVmOWQzMDg1NTVmYjdhZmYwZGM5ZWZiNyJ9fX0="}]}}} 1
+
+
+
+
+/summon minecraft:slime ~ ~1 ~ {CustomName:"{\"text\":\"Slime\"}",CustomNameVisible:false,CanPickUpLoot:false,IsBaby:true,CanBreakDoors:false,Passengers:[{id:"minecraft:falling_block",BlockState:{Name:"minecraft:slime_block"},Time:99,Air:300s}],ArmorDropChances:[0f,0f,0f,0.5f],ActiveEffects:[{Id:14,Duration:2147483640,Amplifier:1,ShowParticles:0b},{Id:2,Duration:2147483640,Amplifier:2,ShowParticles:0b}],ArmorItems:[{},{},{},{id:"minecraft:player_head",Count:1b,Damage:0s,tag:{display:{Name:"{\"text\":\"Slime\"}"},SkullOwner:{Id:"8321287f-584b-4e81-82c1-692bcd63ccc8",Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTIwZTg0ZDMyZDFlOWM5MTlkM2ZkYmI1M2YyYjM3YmEyNzRjMTIxYzU3YjI4MTBlNWE0NzJmNDBkYWNmMDA0ZiJ9fX0="}]}}}}]}
+
+/give @p minecraft:player_head{display:{Name:"{\"text\":\"Slime\"}"},SkullOwner:{Id:"8321287f-584b-4e81-82c1-692bcd63ccc8",Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTIwZTg0ZDMyZDFlOWM5MTlkM2ZkYmI1M2YyYjM3YmEyNzRjMTIxYzU3YjI4MTBlNWE0NzJmNDBkYWNmMDA0ZiJ9fX0="}]}}} 1
+/give @p minecraft:player_head{display:{Name:"{\"text\":\"Slime\"}"},SkullOwner:{Id:"df7e8d67-0aa9-4d2e-af52-f5454db7edc8",Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvN2Y1ODM1NTk4OWQxZWFhZDk4ZjgzOWZkZjc5MWJlOGZhOGQ4OTJiZGVmOWQzMDg1NTVmYjdhZmYwZGM5ZWZiNyJ9fX0="}]}}} 1

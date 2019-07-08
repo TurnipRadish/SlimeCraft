@@ -1,0 +1,12 @@
+{
+    "parent": "slime_mfsc:item/wideblock",
+    "textures": {
+        "particle": "slime_mfsc:item/summoner/slime_water",
+        "down": "slime_mfsc:item/summoner/nothing",
+        "up": "slime_mfsc:item/summoner/slime_water",
+        "north": "slime_mfsc:item/summoner/nothing",
+        "east": "slime_mfsc:item/summoner/nothing",
+        "south": "slime_mfsc:item/summoner/nothing",
+        "west": "slime_mfsc:item/summoner/nothing"
+    }
+}

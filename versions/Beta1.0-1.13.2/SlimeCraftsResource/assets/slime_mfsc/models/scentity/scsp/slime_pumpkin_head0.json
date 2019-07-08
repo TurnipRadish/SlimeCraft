@@ -1,0 +1,12 @@
+{
+    "parent": "slime_mfsc:scsp/block",
+    "textures": {
+        "particle": "slime_mfsc:scentity/scsp/smile0",
+        "down": "block/pumpkin_side",
+        "up": "block/pumpkin_side",
+        "north": "block/pumpkin_side",
+        "east": "block/pumpkin_side",
+        "south": "slime_mfsc:scentity/scsp/smile0",
+        "west": "block/pumpkin_side"
+    }
+}

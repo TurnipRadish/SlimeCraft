@@ -1,0 +1,6 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "slime_mfsc:item/food/slime_apple"
+    }
+}

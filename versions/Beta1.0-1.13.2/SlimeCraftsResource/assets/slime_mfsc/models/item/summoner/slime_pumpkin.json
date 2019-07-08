@@ -1,0 +1,12 @@
+{
+    "parent": "slime_mfsc:item/block",
+    "textures": {
+        "particle": "slime_mfsc:item/summoner/slime_pumpkin",
+        "down": "block/pumpkin_side",
+        "up": "block/pumpkin_top",
+        "north": "slime_mfsc:item/summoner/slime_pumpkin",
+        "east": "block/pumpkin_side",
+        "south": "block/pumpkin_side",
+        "west": "block/pumpkin_side"
+    }
+}

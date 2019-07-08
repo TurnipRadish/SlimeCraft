@@ -1,0 +1,17 @@
+{
+  "display": {
+    "icon": { 
+      "item": "minecraft:carrot_on_a_stick",
+      "nbt": "{Damage:3}"
+	  },
+    "title": "A New Recipe",
+    "description": "Trying to make you a slime.",
+    "background": "minecraft:textures/block/birch_planks.png"
+      },
+  "criteria": {
+    "slime_apple": {
+	  "trigger": "minecraft:impossible",
+      "conditions": {}
+    }
+  }
+}

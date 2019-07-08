@@ -1,0 +1,14 @@
+{
+    "parent":"mfsc:check/root",
+    "criteria": {
+        "setblock_cp": {
+            "trigger": "minecraft:placed_block",
+            "conditions": {
+                "block": "minecraft:carved_pumpkin"
+            }
+        }
+    },
+	"rewards": {
+        "function": "mfsc:players/setblock/carved_pumpkin"
+    }
+}

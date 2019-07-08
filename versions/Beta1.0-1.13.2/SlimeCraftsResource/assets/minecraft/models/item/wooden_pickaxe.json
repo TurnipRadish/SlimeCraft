@@ -1,0 +1,13 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/wooden_pickaxe"
+    },
+	"overrides": [
+		{"predicate": {"damaged": 0,"damage": 0.000000000}, "model": "item/wooden_pickaxe"},
+		{"predicate": {"damaged": 0,"damage": 0.120029734}, "model": "slime_mfsc:item/summoner/slime_water"},
+		{"predicate": {"damaged": 0,"damage": 0.235619561}, "model": "slime_mfsc:item/summoner/slime_water"},
+		{"predicate": {"damaged": 0,"damage": 0.320971916}, "model": "slime_mfsc:item/summoner/slime_water"},
+	    {"predicate": {"damaged": 0,"damage": 0.446701518}, "model": "slime_mfsc:item/summoner/slime_water"}
+	]
+}

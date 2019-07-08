@@ -1,0 +1,11 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/leather_boots",
+		"layer1": "item/leather_boots_overlay"
+    },
+	"overrides": [
+		{"predicate": {"damaged": 0,"damage": 0.000000000}, "model": "item/leather_boots"},
+	    {"predicate": {"damaged": 0,"damage": 0.446701518}, "model": "slime_mfsc:item/slime_boots"}
+	]
+}
